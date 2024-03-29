@@ -12,3 +12,5 @@
 8. Finally Run The Project `python manage.py runserver`
 
 ## Preview
+
+![eventReadme](https://github.com/KingStaff/event-management/assets/110411857/33d926a7-db80-4620-97e7-6fda00e5c829)
