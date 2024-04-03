@@ -7,7 +7,7 @@
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "event_management/wsgi.py"
+            "dest": "django-event-management-master/wsgi.py"
         }
     ]
 }
